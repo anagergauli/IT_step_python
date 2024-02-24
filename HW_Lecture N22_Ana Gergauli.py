@@ -46,3 +46,8 @@ def load_object(file_name):
             print(f"Pickle deserialization failed: {e_pickle}")
 
 load_object('data.json') 
+
+#             დავალება N3
+# წინა ორი პუნქტი გაიმეორე dill-ის გამოყენებით. dill-სთვის ცვლადში შეინახე მარტივი ლამბდა ფუნქცია.
+
+# შუალედურ პროექტებს ვაკეთებ და ამ დავალებას მოგვიანებით დავასრულებ თუ შეიძლება
